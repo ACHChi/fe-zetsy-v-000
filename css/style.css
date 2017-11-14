@@ -67,6 +67,23 @@ p {
     margin: 0 0 20px 0;
 }
 
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+#press {
+    margin-bottom: 20px;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: auto;
+    text-decoration: underline;
+}
 
 .small {
     font-size: 0.8em;
