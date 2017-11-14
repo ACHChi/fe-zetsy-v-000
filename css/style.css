@@ -45,10 +45,10 @@ header a {
 header a:hover {
   color: blue;
   cursor: pointer;
-  -webkit-transition: background-color 2s ease-out;
-  -moz-transition: background-color 2s ease-out;
-  -o-transition: background-color 2s ease-out;
-  transition: background-color 2s ease-out;
+  -webkit-transition: color 2s ease-out;
+  -moz-transition: color 2s ease-out;
+  -o-transition: color 2s ease-out;
+  transition: color 2s ease-out;
 }
 
 section {
