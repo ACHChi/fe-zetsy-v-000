@@ -43,7 +43,7 @@ header a {
 }
 
 header a:hover {
-  background-color: blue;
+  color: blue;
   cursor: pointer;
   -webkit-transition: background-color 2s ease-out;
   -moz-transition: background-color 2s ease-out;
