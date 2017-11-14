@@ -29,6 +29,11 @@ header {
     display: block;
 }
 
+header a {
+    color: rgb(152,173,166);
+    text-decoration: none;
+}
+
 .small {
     font-size: 0.8em;
 }
