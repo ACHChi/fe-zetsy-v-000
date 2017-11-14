@@ -9,6 +9,10 @@ h1 {
     font-family: 'Baskerville', serif;
     border-bottom: 1px solid #ccc;
 }
+
+a:-webkit-any-link {
+    cursor: auto;
+}
 /*////////// Global Styles //////////*/
 
 body {
